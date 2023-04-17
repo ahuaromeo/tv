@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Indosiar(KP)
+https://kusnadipepenk.github.io/campeign/indos.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Sctv(KP)
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Rcti(KP)
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Net(KP)
+https://kusnadipepenk.github.io/campeign/netv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",ANTV(KP)
+https://kusnadipepenk.github.io/campeign/antv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Trans tv(KP)
+https://kusnadipepenk.github.io/campeign/trns.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Trans 7(KP)
+https://kusnadipepenk.github.io/campeign/trns7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Mnc(KP)
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Global(KP)
+https://kusnadipepenk.github.io/campeign/global.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Tv One(KP)
+https://kusnadipepenk.github.io/campeign/tvone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",RTV(KP)
+https://kusnadipepenk.github.io/campeign/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Kompastv(KP)
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Metro tv(KP)
+https://kusnadipepenk.github.io/campeign/metro.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",iNews(KP)
+https://kusnadipepenk.github.io/campeign/inews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",HBO(KP)
+https://kusnadipepenk.github.io/campeign/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",HBO Family(KP)
+https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",HBO Hits(KP)
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",HBO Signature(KP)
+https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Cinemax(KP)
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Warner TV(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Aniplus(KP)
+https://kusnadipepenk.github.io/campeign/anplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Miaomi(KP)
+https://kusnadipepenk.github.io/campeign/miaomi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Kids TV(KP)
+https://kusnadipepenk.github.io/campeign/kid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Dreamwork(KP)
+https://kusnadipepenk.github.io/campeign/drmwk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Nika(KP)
+https://kusnadipepenk.github.io/campeign/nika.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Nike(KP)
+https://kusnadipepenk.github.io/campeign/nike.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",TVN(KP)
+https://kusnadipepenk.github.io/campeign/tvn.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",TVN Movies(KP)
+https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ENTERTAINMENT",Rockext(KP)
+https://kusnadipepenk.github.io/campeign/bluext.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ENTERTAINMENT",Bluent(KP)
+https://kusnadipepenk.github.io/campeign/bluent.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Kplus(KP)
+https://kusnadipepenk.github.io/campeign/kplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Sone(KP)
+https://kusnadipepenk.github.io/campeign/sone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Calestial(KP)
+https://kusnadipepenk.github.io/campeign/celmov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Kix(KP)
+https://kusnadipepenk.github.io/campeign/kix.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Ccm(KP)
+https://kusnadipepenk.github.io/campeign/ccm.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",History (KP)
+https://kusnadipepenk.github.io/campeign/histo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",Nat Wild(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Paramount(KP)
+https://kusnadipepenk.github.io/campeign/prmont.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",Love Nature(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sport TV1(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sport TV2(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sport TV3(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sport TV4(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Bein 1(KP)
+https://kusnadipepenk.github.io/ntn/bs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Bein 2(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Bein 3(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Disney (KP)
+https://kusnadipepenk.github.io/ntn/disn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KIDS",Disney 2(KP)
+http://208.86.19.13:81/14.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Axn(KP)
+https://kusnadipepenk.github.io/ntn/axn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",Natgeo(KP)
+https://kusnadipepenk.github.io/ntn/natgeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",BBC Earth 1(KP)
+https://kusnadipepenk.github.io/ntn/bbce.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",BBC Earth 2(KP)
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ENTERTAINMENT",TLC(KP)
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ENTERTAINMENT",Lifetime(KP)
+http://174.44.3.13:8183/play/lifetime.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",Discovery(KP)
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Syfy(KP)
+https://kusnadipepenk.github.io/ntn/syfy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Sony Pix(KP)
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Star Movies(KP)
+https://kusnadipepenk.github.io/ntn/strmvi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MOVIES",Movies Now(KP)
+https://kusnadipepenk.github.io/ntn/mnow.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sony Ten 1(KP)
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sony Ten 2(KP)
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sony Ten 3(KP)
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Sony Ten 4(KP)
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Arena 1 Sport(KP)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arns1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Arena 2 Sport(KP)
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Arena 3 Sport(KP)
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Arena 4 Sport(KP)
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Eleven 1(KP)
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Eleven 2(KP)
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",Eleven 3(KP)
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",SPOTV 2(KP)
+https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORT",SPOTV 1(KP)
+https://kusnadipepenk.github.io/ntn/spotv1.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",Indosiar_inser????
+http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=shareext|user-agent=Dalvix/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",MOOJI_inser????
+http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls&username=shareext|user-agent=Dalvix/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",RCTI+ ????
+http://insverpro.my.id/play.m3u8?id=rcti&key=rctiplus&type=hls&username=shareext|user-agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",MNCTV+????
+http://insverpro.my.id/play.m3u8?id=mnctv&key=rctiplus&type=hls&username=shareext|user-agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",GTV+????
+http://insverpro.my.id/play.m3u8?id=gtv&key=rctiplus&type=hls&username=shareext|user-agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",INEWS+????
+http://insverpro.my.id/play.m3u8?id=inews&key=rctiplus&type=hls&username=shareext|user-agent=Dalvik/2.1.0
+
+
+########################################## DENZ SD ######################################################
+
+
+#EXTINF:-1 group-title="LOKAL SD",INDOSIAR(SD)
+http://210.210.155.35/session/881bf094-33ff-11ed-991d-c81f66f89318/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",SCTV(SD)
+http://210.210.155.35/session/f0ef2136-33ff-11ed-991d-c81f66f89318/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",TRANSTV(SD)
+http://210.210.155.35/session/c175c0d6-33ff-11ed-991d-c81f66f89318/qwr9ew/s/s05/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",TRANS7(SD)
+http://210.210.155.35/session/1a21f9fc-3400-11ed-a75d-c81f66f89318/uq2663/h/h11/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",NET(SD)
+http://210.210.155.37/session/2e4db8c6-3400-11ed-a75d-c81f66f89318/uq2663/h/h06/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",RTV(SD)
+http://210.210.155.37/session/80869982-3400-11ed-8156-c81f66f89318/dr9445/h/h10/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",ANTV(SD)
+http://210.210.155.35/session/9db57528-3400-11ed-991d-c81f66f89318/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",KOMPASTV(SD)
+http://210.210.155.35/session/b5df4a3e-3400-11ed-991d-c81f66f89318/qwr9ew/s/s104/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",TVONE(SD)
+http://210.210.155.35/session/3b196c34-3401-11ed-991d-c81f66f89318/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",METROTV(SD)
+http://210.210.155.35/session/887f8ae4-3401-11ed-a328-c81f66f89318/uq2663/h/h12/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",TVRI(SD)
+http://210.210.155.35/session/9e55b7b2-3401-11ed-991d-c81f66f89318/qwr9ew/s/s11/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",MOJI(SD)
+http://210.210.155.35/session/dd21ed08-3401-11ed-991d-c81f66f89318/qwr9ew/s/s41/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",SHOWBIZ(SD)
+http://210.210.155.35/session/3ab601f6-3403-11ed-ad35-b82a72d63267/x6bnqe/s/s35/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",DAAI(SD)
+http://210.210.155.35/session/febf64e0-3401-11ed-991d-c81f66f89318/qwr9ew/s/s13/02.m3u8
+
+#EXTINF:-1 group-title="LOKAL SD",BERITA SATU(SD)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
+
+#EXTINF:-1 group-title="ENTERTAINMENT SD",LIFESTYLE(SD)
+http://210.210.155.37/session/d9d2f8da-3402-11ed-ad35-b82a72d63267/x6bnqe/s/s65/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT SD",DFC(SD)
+http://210.210.155.37/session/972df822-3402-11ed-ad35-b82a72d63267/x6bnqe/s/s38/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT SD",DENS PLAY(SD)
+http://210.210.155.35/session/c8395074-3402-11ed-ad35-b82a72d63267/x6bnqe/s/s37/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE SD",DENS LEARNING & KNOWLEDGE(SD)
+http://210.210.155.37/session/0cb075de-3403-11ed-ad35-b82a72d63267/x6bnqe/s/s36/S1/mnf.m3u8
+
+
+
+
+#EXTINF:-1 group-title="LOKAL",Indosiar(HD)
+http://210.210.155.35/session/78c0c716-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",antv(HD)
+http://210.210.155.35/session/61a5c450-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",NET(HD)
+http://210.210.155.37/session/c8a265d2-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",SCTV(HD)
+http://210.210.155.35/session/e04795f4-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",RTV(HD)
+http://210.210.155.35/session/f815cd04-a08b-11ed-8b6a-b82a72d63267/dr9445/h/h10/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",TVRI(HD)
+http://210.210.155.35/session/07461626-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",TVRI Sport(HD)
+http://210.210.155.37/session/2169613e-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Moji(HD)
+http://210.210.155.35/session/249c8890-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s41/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Metro TV(HD)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1769993429_b1128000_sleng.m3u8
+
+#EXTINF:-1 group-title="LOKAL",TV One(HD)
+http://nonton.wap.sh/id/010.m3u8
+http://210.210.155.35/session/55126558-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",JTV(HD)
+http://210.210.155.35/session/74ef3de2-a08c-11ed-b03c-b82a72d63267/x6bnqe/s/s91/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Kompas TV(HD)
+http://210.210.155.35/session/87843d36-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL",Magna TV(HD)
+http://210.210.155.35/session/62117e68-a098-11ed-a06a-c81f66f89318/dr9445/h/h24/01.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL",JAK TV(HD)
+http://210.210.155.37/session/0101d114-a08d-11ed-b03c-b82a72d63267/x6bnqe/s/s13/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL",JiTV(HD)
+http://103.255.15.222:1935/tv/jitv_720p/chunklist_w76725115.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Elshinta(HD)
+http://210.210.155.37/session/27839200-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s10/01.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL",BTV(HD)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="LOKAL",CNN Indonesia(HD)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOKAL",DAAI TV(HD)
+http://210.210.155.35/session/6319c7b2-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+
+
+#EXTINF:-1 group-title="KIDS",Aniplus(HD)
+http://210.210.155.35/session/53895624-a09b-11ed-a06a-c81f66f89318/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HITS MOVIE(HD)
+http://210.210.155.35/session/1f525d4e-a099-11ed-a06a-c81f66f89318/dr9445/h/h38/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HITS(HD)
+http://210.210.155.35/session/2ccda92e-a099-11ed-a06a-c81f66f89318/dr9445/h/h37/01.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES",MCN(HD)
+http://210.210.155.35/session/081eccc4-a090-11ed-b1c0-b82a72d63267/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MCE(HD)
+http://210.210.155.35/session/271843a0-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h18/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MCA(HD)
+http://210.210.155.35/session/8a829008-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MFC(HD)
+http://210.210.155.35/session/6d4bcebe-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",RockEnt(HD)
+http://210.210.155.35/session/9b34c91e-a09a-11ed-a06a-c81f66f89318/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",RockAct(HD)
+http://210.210.155.35/session/c6557da0-a09a-11ed-a06a-c81f66f89318/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Cinema World(HD)
+http://210.210.155.35/session/f18ce028-a098-11ed-a06a-c81f66f89318/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Calestial(HD)
+http://210.210.155.35/session/fe26f2ec-a098-11ed-a06a-c81f66f89318/dr9445/h/h14/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CCM(HD)
+http://210.210.155.35/session/9a115ab4-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s31/01.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES",TVN(HD)
+http://210.210.155.35/session/0c5c3a0a-a09b-11ed-a06a-c81f66f89318/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TVN Movies(HD)
+http://210.210.155.35/session/0fec88aa-a09b-11ed-a06a-c81f66f89318/dr9445/h/h21/01.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES",Thril(HD)
+http://210.210.155.35/session/ef03610e-a09a-11ed-991d-c81f66f89318/qwr9ew/s/s34/01.m3u8
+
+
+#EXTINF:-1 group-title="SPORT",Fight Sport(HD)
+http://210.210.155.35/session/131379be-a099-11ed-a06a-c81f66f89318/dr9445/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",Knowledge(HD)
+http://210.210.155.35/session/d4911008-ec97-11ec-a328-c81f66f89318/x6bnqe/s/s36/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MOVIES",K+(HD)
+http://210.210.155.35/session/fc8b7274-a08d-11ed-b1c0-b82a72d63267/uq2663/h/h08/02.m3u8
+
+#EXTINF:-1 group-title="MOVIES",KIX(HD)
+http://210.210.155.35/session/bc6ad750-a099-11ed-a06a-c81f66f89318/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="KIDS",M Kidz(HD)
+http://210.210.155.35/session/996f7e46-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",Redbull TV(HD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="SPORT",Motorvision(HD)
+http://210.210.155.35/session/ddbf92c0-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="SPORT",Motor Racing(HD)
+http://210.210.155.37/session/1835481e-a08f-11ed-b1c0-b82a72d63267/uq2663/h/h123/index.m3u8
+
+
+
+#EXTINF:-1 group-title="KIDS",Toon Kidz(HD)
+http://210.210.155.37/session/de98eb0e-a09a-11ed-99fb-c81f66f89318/x6bnqe/s/s26/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",Style(HD)
+http://210.210.155.37/session/d2e9a62c-a09a-11ed-a06a-c81f66f89318/dr9445/h/h121/01.m3u8
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT",Qwest(HD)
+http://210.210.155.37/session/cc4a6db6-a08f-11ed-b1c0-b82a72d63267/uq2663/h/h96/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL",BALI TV(HD)
+http://210.210.155.35/session/db422890-a08f-11ed-b1c0-b82a72d63267/uq2663/h/h159/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="KNOWLEDGE",CGTN(HD)
+http://210.210.155.35/session/74db5af6-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s20/01.m3u8
+
+
