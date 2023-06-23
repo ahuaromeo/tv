@@ -115,7 +115,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
 
-#EXTINF:-1 group-title="MOVIES V2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
 
 #EXTINF:-1 group-title="C-Sports" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport (F*)
@@ -144,9 +144,6 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/foodnetwork.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png",HGTV Asia (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/hgtv.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Animal Planet(FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
