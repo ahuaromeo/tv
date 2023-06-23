@@ -187,13 +187,4 @@ HBO POP,http://208.115.225.174:14156
 http://208.115.225.174:14132
 #EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",Universal+
 http://208.115.225.174:14128
-#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",SBT TV
-http://208.115.225.174:14170
-#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",SBT TV
-http://208.115.225.174:14173
-#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",动物星球 EN
-http://208.115.225.174:14192
-#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",国外1
-http://208.115.225.174:14259
-#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",国外2
-http://208.115.225.174:14263
+
