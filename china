@@ -100,26 +100,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="",18中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 
-#EXTINF:-1 group-title="MOVIES V2" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
+#EXTINF:-1 group-title="MOVIES" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/kbsw.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES V2",Paramount (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES V2",Rock Action (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="MOVIES V2",Rock Entertainment (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
-
-#EXTINF:-1 group-title="C-Sports" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
@@ -133,7 +115,13 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport (F*)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/kbsw.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network (FMX)
@@ -166,4 +154,14 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="",Nick Jr(FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/nickjr.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Davinci (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/davinci.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Hits (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/hits.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Hits Movie (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/hitmovie.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Premier Sport (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
