@@ -165,3 +165,35 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/hitmovie.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Premier Sport (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
+
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO XTREXE EN
+http://208.115.225.174:14165
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO SIGNATURI EN
+http://208.115.225.174:14160
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO EN
+http://208.115.225.174:14136
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO2 EN
+http://208.115.225.174:14140
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",NHBO Family EN
+http://208.115.225.174:14144
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO Mundi EN
+http://208.115.225.174:14148
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO+ EN
+http://208.115.225.174:14152
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Movie v2",HBO POP EN
+HBO POP,http://208.115.225.174:14156
+
+#EXTINF:-1,tvg-id="WBTV" tvg-name="WBTV" tvg-logo="https://epg.112114.xyz/logo/WBTV.png" group-title="Movie v2",WBTV
+http://208.115.225.174:14132
+#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",Universal+
+http://208.115.225.174:14128
+#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",SBT TV
+http://208.115.225.174:14170
+#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",SBT TV
+http://208.115.225.174:14173
+#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",动物星球 EN
+http://208.115.225.174:14192
+#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",国外1
+http://208.115.225.174:14259
+#EXTINF:-1,tvg-id="" tvg-name="WBTV" tvg-logo="" group-title="Movie v2",国外2
+http://208.115.225.174:14263
