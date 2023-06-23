@@ -1,105 +1,210 @@
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV1
 http://39.134.61.219/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV1
 http://39.134.61.219/PLTV/88888888/224/3221226896/index.m3u8
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV1
 http://39.134.61.219/PLTV/88888888/224/3221227090/index.m3u8
-#EXTINF:-1,CCTV2
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV2
 http://39.134.61.219/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1,CCTV2
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV2
 http://39.134.61.219/PLTV/88888888/224/3221226929/index.m3u8
-#EXTINF:-1,CCTV3
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV3
 http://39.134.61.219/PLTV/88888888/224/3221226889/index.m3u8
-#EXTINF:-1,CCTV4
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV4
 http://39.134.61.219/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV5
 http://39.134.61.219/PLTV/88888888/224/3221226944/index.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV5
 http://39.134.61.219/PLTV/88888888/224/3221226900/index.m3u8
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV5+
 http://39.134.61.219/PLTV/88888888/224/3221227092/index.m3u8
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV5+
 http://39.134.61.219/PLTV/88888888/224/3221226912/index.m3u8
-#EXTINF:-1,CCTV6
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV6
 http://39.134.61.219/PLTV/88888888/224/3221226891/index.m3u8
-#EXTINF:-1,CCTV7
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV7
 http://39.134.61.219/PLTV/88888888/224/3221226925/index.m3u8
-#EXTINF:-1,CCTV8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV8
 http://39.134.61.219/PLTV/88888888/224/3221226946/index.m3u8
-#EXTINF:-1,CCTV9
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV9
 http://39.134.61.219/PLTV/88888888/224/3221226849/index.m3u8
-#EXTINF:-1,CCTV9
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV9
 http://39.134.61.219/PLTV/88888888/224/3221226976/index.m3u8
-#EXTINF:-1,CCTV10
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV10
 http://39.134.61.219/PLTV/88888888/224/3221226904/index.m3u8
-#EXTINF:-1,CCTV10
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV10
 http://39.134.61.219/PLTV/88888888/224/3221226966/index.m3u8
-#EXTINF:-1,CCTV11
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV11
 http://39.134.61.219/PLTV/88888888/224/3221226851/index.m3u8
-#EXTINF:-1,CCTV11
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV11
 http://39.134.61.219/PLTV/88888888/224/3221226558/index.m3u8
-#EXTINF:-1,CCTV12
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV12
 http://39.134.61.219/PLTV/88888888/224/3221226921/index.m3u8
-#EXTINF:-1,CCTV12
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV12
 http://39.134.61.219/PLTV/88888888/224/3221226906/index.m3u8
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV13
 http://39.134.61.219/PLTV/88888888/224/3221226853/index.m3u8
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV13
 http://39.134.61.219/PLTV/88888888/224/3221226481/index.m3u8
-#EXTINF:-1,CCTV14
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV14
 http://39.134.61.219/PLTV/88888888/224/3221226908/index.m3u8
-#EXTINF:-1,CCTV14
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV14
 http://39.134.61.219/PLTV/88888888/224/3221226974/index.m3u8
-#EXTINF:-1,CCTV15
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV15
 http://39.134.61.219/PLTV/88888888/224/3221226855/index.m3u8
-#EXTINF:-1, cctv15-5ok
+#EXTINF:-1 group-title="China" tvg-logo="",cctv15-5ok
 http://lu1.cc/itv/php/gudou.php?id=cctv15hd
-#EXTINF:-1, cctv15-6ok
-http://httplive.slave.bfgd.com.cn:14311/playurl?
-
-playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW16
-
-26D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
-#EXTINF:-1,CCTV16
+#EXTINF:-1 group-title="China" tvg-logo="",cctv15-6ok
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV16
 http://39.134.61.219/PLTV/88888888/224/3221226910/index.m3u8
-#EXTINF:-1,CCTV17
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV17
 http://39.134.61.219/PLTV/88888888/224/3221226857/index.m3u8
 
 
 ##🐫中国蓝##
-#EXTINF:-1,1中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",1中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1,2中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",2中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1,3中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",3中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1,4中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",4中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1,5中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",5中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-#EXTINF:-1,6中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",6中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1,7中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",7中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1,8中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",8中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1,9中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",9中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1,10中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",10中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1,11中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",11中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
-#EXTINF:-1,12中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",12中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-#EXTINF:-1,13中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",13中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-#EXTINF:-1,14中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",14中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
-#EXTINF:-1,15中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",15中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-#EXTINF:-1,16中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",16中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-#EXTINF:-1,17中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",17中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-#EXTINF:-1,18中国蓝
+#EXTINF:-1 group-title="China" tvg-logo="",18中国蓝
 http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+
+#EXTINF:-1 group-title="MOVIES V2" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-
+
+tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/kbsw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-
+
+title="MOVIES V2",Paramount (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES 
+
+V2",Rock Action (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="MOVIES V2",Rock 
+
+Entertainment (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
+
+#EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony 
+
+GEM (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
+
+#EXTINF:-1 group-title="MOVIES V2" tvg-
+
+logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia 
+
+(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
+
+#EXTINF:-1 group-title="C-Sports" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-
+
+tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport (F*)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-
+
+title="MOVIES",Paramount (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-
+
+title="MOVIES",Rock Action (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="MOVIES",Rock 
+
+Entertainment (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
+
+#EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM 
+
+(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-
+
+tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/kbsw.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-
+
+logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/afn.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-
+
+Food_Network_logo.svg.png",Food Network (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/foodnetwork.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png",HGTV Asia 
+
+(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/hgtv.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-
+
+logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia 
+
+(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Animal Planet(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Discovery(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/discovery.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Discovery asia(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Love nature(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/lovenature.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",National Geo(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeo.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",National Geo Wild(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Nick Jr(FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/nickjr.m3u8
+
+
