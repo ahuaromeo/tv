@@ -58,8 +58,7 @@ http://lu1.cc/itv/php/gudou.php?id=cctv15hd
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
 #EXTINF:-1 group-title="China" tvg-logo="",cctv15-3
 https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 group-title="China" tvg-logo="",cctv15-4
-https://live.v1.mk/api/sxg.php?id=CCTV-15-yyH265_4000
+
 #EXTINF:-1 group-title="China" tvg-logo="",CCTV16
 http://39.134.61.219/PLTV/88888888/224/3221226910/index.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="",CCTV17
