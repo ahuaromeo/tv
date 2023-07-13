@@ -95,6 +95,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
 #EXTINF:-1 tvg-id="65cf5bc7ad4b993ab295390bf9b6f0e1" tvg-chno="56" group-title="Entertainment",AFN
 http://103.180.119.90:9911/stream/channelid/1197199205?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="SG: Asian Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d55b3f226ab7d36bd78dee89ed6a47a.png" group-title="Entertainment",Dens Food Channel
+http://rr3.dens.tv/s/s50/live.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Entertainment",ANIMAL•PLANET
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
