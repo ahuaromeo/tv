@@ -71,8 +71,7 @@ https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SG: Asian Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d55b3f226ab7d36bd78dee89ed6a47a.png" group-title="Favorite",Dens Food Channel
 http://rr3.dens.tv/s/s50/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Eat&Go" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="Favorite",ID: Eat&Go
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264765
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="Favorite",ID: TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
@@ -83,8 +82,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Favorite",Eat n Go
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
