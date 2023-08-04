@@ -48,11 +48,10 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-1
-http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-1
-http://cntv.sbs/live/?id=cctv15
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-1
-http://cfss.cc/ds/bst.php?id=Cf-16
+https://cntv.sbs/live?auth=230612&id=cctv15
+
 
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="China",CCTV-17-1
