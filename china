@@ -1,37 +1,4 @@
-
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",RCTI_kus
-https://kusnadipepenk.github.io/campeign/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",MNCTV_kus
-https://kusnadipepenk.github.io/campeign/mnc.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",INEWS_kus
-https://d1jn46axq4h80m.cloudfront.net/out/v1/3952b6a062a84558b3d2cab7f85095d8/index.m3u8|User-Agent=Dalvik/2.1.0&id=shareext@inews
-https://kusnadipepenk.github.io/campeign/inews.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",GTV_kus
-https://kusnadipepenk.github.io/campeign/global.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",TVone_kus
-https://kusnadipepenk.github.io/campeign/tvone.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",SCTV_kus
-https://kusnadipepenk.github.io/campeign/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",ANTV_kus
-https://kusnadipepenk.github.io/campeign/antv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",MetroTv_kus
-https://kusnadipepenk.github.io/campeign/metro.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",Kompastv_kus
-https://kusnadipepenk.github.io/campeign/kompas.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",RTV_kus
-https://kusnadipepenk.github.io/campeign/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",Tvri_sports?wpc
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",TRANStv_dt
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Lokal",TRANS7_dt
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-
-
-
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="China",CCTV-1-1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
