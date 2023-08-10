@@ -741,45 +741,6 @@ https://ytlive.openwindow040.workers.dev/channel/UCqKLOX-B7H9djovoTzj-Wdg.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-QnLxXmMPWoc/VvFofhXEPlI/AAAAAAAAAGk/nvttumMScN8p3wWTloPD8LbkPNw_Ay5Tg/s1600/Graphic1.png" group-title="Youtube Live",Pop Indo
-https://ytlive.openwindow040.workers.dev/channel/UCgbeKrAqsEAy3umeKbp_h3A.m3u8
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/bf/b8/6a/bfb86ac275723ba3ddbdae16936d3d4f.png" group-title="Youtube Live",Lagu Malaysia
-https://ytlive.openwindow040.workers.dev/channel/UCTXOjzi-Ymn7iFMaP8yGLbg.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nagaswara_FM.png/revision/latest?cb=20200213130853" group-title="Youtube Live",Nagaswara
-https://ytlive.openwindow040.workers.dev/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvCKFKGxhyZMbC4ZDsWk0Mq5TzAy3TX7OF1Lcywch1rRVITz_G209DE-CfOfZ0SdO4-w&usqp=CAU" group-title="Youtube Live",Lagu Nostalgia
-https://ytlive.openwindow040.workers.dev/channel/UC9rJcvTCPTdxDazJc8ZtxpA.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngarts.com/files/1/Madina-Free-PNG-Image.png" group-title="Youtube Live",Madinah Live Today
-https://ytlive.openwindow040.workers.dev/channel/UCWainKMJPyXikjekccFf3NA.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn11.bigcommerce.com/s-hii7479o/images/stencil/600x600/products/10994/27309/Chill_Out__14777.1527263229.png?c=2" group-title="Youtube Live",Chill Out Music
-https://ytlive.openwindow040.workers.dev/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Coffee-Cup-Transparent-Background.png" group-title="Youtube Live",Coffee Jazz
-https://ytlive.openwindow040.workers.dev/channel/UCQINXHZqCU5i06HzxRkujfg.m3u8
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/5/Relax-PNG-Photos.png" group-title="Youtube Live",Relax Song
-https://ytlive.openwindow040.workers.dev/channel/UChs0pSaEoNLV4mevBFGaoKA.m3u8
-
-#EXTINF:0 tvg-logo="https://images.vexels.com/media/users/3/183711/isolated/preview/ac1954a06cb6958f34fcf02893b58a85-soul-music-retro-microphone-symbol-by-vexels.png" group-title="Youtube Live",Soul R&B Song
-https://ytlive.openwindow040.workers.dev/channel/UCQJwQEiPNmhEjcikg36NYgQ.m3u8
-
-#EXTINF:0 tvg-logo="https://images.vexels.com/media/users/3/183640/isolated/preview/af82c90701505ee70e1cab91ffeb3139-s--mbolo-de-m-sica-pop-de-microfone-by-vexels.png" group-title="Youtube Live",Pop Music
-https://ytlive.openwindow040.workers.dev/channel/UCiO98kD0y5i71vY4O1Q7GOA.m3u8
-
-#EXTINF:0 tvg-logo="https://en.babybus.com/Public/images/Public/logo.png" group-title="Youtube Live",Baby Bus
-https://ytlive.openwindow040.workers.dev/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
-
-#EXTINF:0 tvg-logo="https://vectorified.com/images/heaven-icon-18.png" group-title="Youtube Live",Music Meets Heaven
-https://ytlive.openwindow040.workers.dev/channel/UCTPioC8tmJMcpdB-XKMch4Q.m3u8
-
-#EXTINF:0 tvg-logo="https://www.ambientbp.com/blog/wp-content/uploads/2015/06/ambient-logo-transparent-bg.png" group-title="Youtube Live",Relaxation Ambient Music
-https://ytlive.openwindow040.workers.dev/channel/UCkFeoNSqYTa7trn75WM9tsg.m3u8
-
 ================================================================ RADIO =====================================================
 ============================================================================================================================
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289802d.png" group-title="Radio",Sonora Jakarta
@@ -1013,199 +974,6 @@ https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
 
 =========================================================== TV DAERAH =======================================================================
 =============================================================================================================================================
-#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.ibb.co/V2tzPtN/Jowo-channel.jpg" group-title="TV DAERAH",JOWO CHANNEL
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/2997
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:0 tvg-id="" tvg-name="JTV" tvg-logo="https://i.ibb.co/Y2mWkZH/Jtv-hometv.jpg" group-title="TV DAERAH",JTV
-https://anevia115.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tBDHG8M/Bali-tv-hometv.jpg" group-title="TV DAERAH",BALI TV
-https://anevia115.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RH7S6Zq/Bandung-tv-hometv.jpg" group-title="TV DAERAH",BANDUNGTV
-https://anevia115.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXz4tK/Padang-tv-hometv.jpg" tvg-name="" group-title="TV DAERAH",PADANG TV
-http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQ08C8V/Kawanua-hometv.jpg" tvg-name="" group-title="TV DAERAH",KAWANUA TV
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mv2cSZz/Jitv-hometv.jpg" group-title="TV DAERAH",JITV
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nm58HMh/Simpang5-hometv.jpg" group-title="TV DAERAH",SIMPANG 5 TV
-http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ADITV" tvg-logo="https://i.ibb.co/D5DkjBK/Aditv-hometv.jpg" group-title="TV DAERAH",ADITV
-https://v2.siar.us/aditv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TEGAR TV" tvg-logo="https://i.ibb.co/qWgSyGS/Tegartv-jogja-hometv.jpg" group-title="TV DAERAH",TEGAR TV
-http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kmqHrZy/Tatv-hometv.jpg" group-title="TV DAERAH",TATV
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://i.ibb.co/1MJm1xD/Tvku-hometv.jpg" group-title="TV DAERAH",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q9n0G6v/Btv-hometv.jpg" tvg-name="" group-title="TV DAERAH",BTV BALIKPAPAN
-http://63b2dc7196c38.streamlock.net:1935/ch10/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zQKTLpR/Radartv-lampung-hometv.jpg" tvg-name="" group-title="TV DAERAH",RADARTV LAMPUNG
-http://63b2dc7196c38.streamlock.net:1935/ch17/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJHtLfc/Jambitv-hometv.jpg" tvg-name="" group-title="TV DAERAH",JAMBI TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQTPt9F/Brtv-hometv.jpg" tvg-name="" group-title="TV DAERAH",BADAR TV
-https://e1.siar.us/badartv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhSmHq5/Inspiratv-hometv.jpg" tvg-name="NET" group-title="TV DAERAH",INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVvSCxg/Pktv-hometv.jpg" tvg-name="NET" group-title="TV DAERAH",PKTV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
-
-
-=== Malaysia ===
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg",ASTRO BOO
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2407/default_ott.mpd
-
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/zNhKyxb/Awesome-hometv.jpg",ASTRO AWESOME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/211/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/StKxM05/Showcase-hometv.jpg",SHOWCHASE
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/5054/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/xJPS7zC/Abo-hometv.jpg",ASTRO BOX OFFICE
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2109/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/m8zzztb/Colors-hometv.jpg",COLORS
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2101/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/Y0fhz0C/Oasis-hometv.jpg",ASTRO OASIS
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2505/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/YTgCTDq/Aura-hometv.jpg",ASTRO AURA
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/609/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/608
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/F4b4Dg5/Rania-hometv.jpg",ASTRO RANIA
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/608/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/g9WW75g/Awani-hometv.jpg",ASTRO AWANI
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/5025/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/1006
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/BwFc6pF/Iqiyi-hometv.jpg",IQIYI
-https://1.yurend.xyz/dash-wv/linear/1006/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2706
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/GspyP2P/Aod-hometv.jpg",A0D
-https://1.yurend.xyz/dash-wv/linear/2706/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2507
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/m0VmD8S/Quan-jia-hometv.jpg",QUAN JIA
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2507/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2711
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/YDNCcX9/Xiao-tai-yang-hometv.jpg",XIAO TAI YANG
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2711/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/RYBJ7DT/Tv1-hometv.jpg",TV 1
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/711/default_primary.mpd
-
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/zFTq85X/Tv2-hometv.jpg",TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/5027/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/fqDG4mx/Tv3-hometv.jpg",TV 3
-https://aqfadtv.xyz/live/tv3/index.mpd
-
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/zZtRg4Q/Tv6-hometv.jpg",TV 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/Zfrr6KW/Tv8-my-hometv.jpg",TV 8
-https://aqfadtv.xyz/live/8tv/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/6FnBB5G/Tv-9-hometv.jpg",TV 9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/X4rHytB/Okey-hometv.jpg",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
-
-#EXTINF:-1 tvg-id"" tvg-name="RTB Brunei" tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="Malaysia",RTB (Brunei)
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png/revision/latest?cb=20190121072745", group-title="Malaysia",RTB Sukmaindera 
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png", group-title="Malaysia",RTB GO LIVE
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest?cb=20190121072917", group-title="Malaysia",RTB Aneka 
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/pbDrn9p/Dunia-sinema-hometv.jpg",DUNIA SINEMA
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/Rg9m0tz/Sensasi-hometv.jpg",SENSASI
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/f4MjCzx/Inspirasi-hometv.jpg",INSPIRASI
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/Jrh0ssc/Degup-hometv.jpg",DEGUP
-https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 
 =========================================== EXTRA =====================================================================================
@@ -2391,3 +2159,141 @@ http://210.210.155.35/session/9d9a0104-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h124
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Premium Channel",W Sport
 http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR first 226" tvg-logo="" group-title="LOKAL-HOME",INDOSIAR first 226
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/197
+#EXTINF:-1 tvg-id="" tvg-name="SCTV first 226" tvg-logo="" group-title="LOKAL-HOME",SCTV first 226
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/198
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV mcn" tvg-logo="" group-title="LOKAL-HOME",TRANS TV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/215
+#EXTINF:-1 tvg-id="" tvg-name="ANTV mcn" tvg-logo="" group-title="LOKAL-HOME",ANTV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/216
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE mcn" tvg-logo="" group-title="LOKAL-HOME",TV ONE mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/217
+#EXTINF:-1 tvg-id="" tvg-name="NET TV mcn" tvg-logo="" group-title="LOKAL-HOME",NET TV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/218
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV mcn" tvg-logo="" group-title="LOKAL-HOME",METRO TV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/219
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU mcn" tvg-logo="" group-title="LOKAL-HOME",BERITA SATU mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/220
+#EXTINF:-1 tvg-id="" tvg-name="RTV mcn" tvg-logo="" group-title="LOKAL-HOME",RTV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/221
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV mcn" tvg-logo="" group-title="LOKAL-HOME",KOMPAS TV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/222
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR mcn" tvg-logo="" group-title="LOKAL-HOME",INDOSIAR mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/223
+#EXTINF:-1 tvg-id="" tvg-name="SCTV mcn" tvg-logo="" group-title="LOKAL-HOME",SCTV mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/224
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 mcn" tvg-logo="" group-title="LOKAL-HOME",TRANS 7 mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO" tvg-logo="" group-title="SPORTS",AUTOMOTO
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3035
+#EXTINF:-1 tvg-id="" tvg-name="CHOPPERTOWN" tvg-logo="" group-title="SPORTS",CHOPPERTOWN
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3036
+#EXTINF:-1 tvg-id="" tvg-name="TV Full Custom Garage" tvg-logo="" group-title="SPORTS",TV Full Custom Garage
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3037
+#EXTINF:-1 tvg-id="" tvg-name="TV MOTOR" tvg-logo="" group-title="SPORTS",TV MOTOR
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3038
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="SPORTS",DMAX
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3039
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="LOKAL-HOME",RCTI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3365
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="LOKAL-HOME",MNC TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3366
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="LOKAL-HOME",GTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3367
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS HD mcn" tvg-logo="" group-title="LOKAL-HOME",iNEWS HD mcn
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3368
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="PREMIUM-HOME",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/2998
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="PREMIUM-HOME",HGTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/2999
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="PREMIUM-HOME",TLC
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3000
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="PREMIUM-HOME",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3001
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="" group-title="PREMIUM-HOME",AFN
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3002
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK ENG" tvg-logo="" group-title="PREMIUM-HOME",CARTOON NETWORK ENG
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3003
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTER" tvg-logo="" group-title="PREMIUM-HOME",CNN INTER
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3006
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="PREMIUM-HOME",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="PREMIUM-HOME",HBO
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="PREMIUM-HOME",CINEMAX
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="PREMIUM-HOME",HBO FAMILY
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="PREMIUM-HOME",HBO HITS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3010
+#EXTINF:-1 tvg-id="" tvg-name="WARNER" tvg-logo="" group-title="PREMIUM-HOME",WARNER
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="PREMIUM-HOME",PARAMOUNT
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="" group-title="PREMIUM-HOME",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3623
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="" group-title="PREMIUM-HOME",FLIK
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3625
+#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="" group-title="PREMIUM-HOME",HOREE
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3693
+#EXTINF:-1 tvg-id="" tvg-name="HOME BIOSKOP 1" tvg-logo="" group-title="PREMIUM-HOME",HOME BIOSKOP 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3915
+#EXTINF:-1 tvg-id="" tvg-name="HOME BIOSKOP 2" tvg-logo="" group-title="PREMIUM-HOME",HOME BIOSKOP 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3916
+#EXTINF:-1 tvg-id="" tvg-name="HOME BIOSKOP 3" tvg-logo="" group-title="PREMIUM-HOME",HOME BIOSKOP 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3917
+#EXTINF:-1 tvg-id="" tvg-name="S GEM" tvg-logo="" group-title="PREMIUM-HOME",S GEM
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3923
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="PREMIUM-HOME",DISNEY JR
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3925
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="PREMIUM-HOME",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3926
