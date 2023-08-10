@@ -48,9 +48,11 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-1
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-2
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-3
+http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="China",CCTV16-1
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
