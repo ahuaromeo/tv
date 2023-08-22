@@ -10,7 +10,7 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="China",CCTV-4-1
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="China",CCTV-5-1
@@ -36,7 +36,7 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="China",CCTV-11-1
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="China",CCTV-12-1
 https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
@@ -49,13 +49,9 @@ https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-2
-https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-15-yyH265_4000
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="China",CCTV-15-3
-http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="China",CCTV16-1
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="China",CCTV-17-1
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
