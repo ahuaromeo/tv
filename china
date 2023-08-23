@@ -159,4 +159,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c
 #EXTINF:-1 group-title="Favorite" tvg-logo="https://i.postimg.cc/ydDy2BTW/20221026-010302.png", Boomerang
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
-
+#EXTINF:-1 group-title="Favorite", Premier League
+#EXTVLCOPT:http-referrer=https://stream.zhetv.eu.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
+https://cdn.zhetv.skvid.geloilmu.site/aing002-cdn.zhetv.eu.org/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/ZheTV_HD.mpd
