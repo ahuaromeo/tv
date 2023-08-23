@@ -146,10 +146,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:0 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/07/Discovery-Channel-Logo.png" group-title="Favorite",Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857baa1174017bd9f231e362a9/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00058ce1e2fec87d9e9b3357dddf414d:5ab2e08ed6183974ae9ff29c78b762c1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sky Sports", Main Event
+#EXTVLCOPT:http-referrer=https://stream.zhetv.eu.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
+https://cdn.zhetv.skvid.geloilmu.site/aing007-cdn.zhetv.eu.org/100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/ZheTV_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg" group-title="Favorite",Cartoon Network 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
