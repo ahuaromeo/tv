@@ -161,8 +161,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00032a3b7d70479c247c423993fbd761:ea65943df25a98071a2b101e22791aee
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sky Sports", Main Event
+#KODIPROP:inputstream.adaptive.license_key=00038349e1583ff8582bec07e3b5497d:0ec1b86b950c3a2087fbffa18b057417
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sky Sports", Premier League
 #EXTVLCOPT:http-referrer=https://stream.zhetv.eu.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://cdn.zhetv.skvid.geloilmu.site/aing007-cdn.zhetv.eu.org/100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/ZheTV_HD.mpd
+https://cdn.zhetv.skvid.geloilmu.site/aing002-cdn.zhetv.eu.org/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/ZheTV_HD.mpd
