@@ -1,6 +1,0 @@
-#EXTINF:-1 tvg-id="" tvg-name="" group-logo="" group-title="" tvg-logo="",hbo hd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
