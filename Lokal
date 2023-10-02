@@ -1,17 +1,3 @@
-#EXTINF:-1 tvg-id="vtc3hd" group-title="ðŸ†|VNL_2023" tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1652876879/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW-VNL-MKT-BK-OffMarks-OffEvent-Horizontal-BlueBackground-RGB", VNL_Vidio
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=13007
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
-#EXTINF:-1 tvg-id="vtc3hd" group-title="ðŸ†|VNL_2023" tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1652876879/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW-VNL-MKT-BK-OffMarks-OffEvent-Horizontal-BlueBackground-RGB", VNL2_Vidio
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
 #EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="ðŸ“º|Vidio-ChampionsTV",NBA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
