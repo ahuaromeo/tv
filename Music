@@ -1,4 +1,2 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
 https://1.yurend.xyz/dash-wv/linear/5055/default_primary.mpd
