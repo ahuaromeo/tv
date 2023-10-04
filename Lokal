@@ -176,4 +176,46 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
 https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 
+#EXTINF:-1 group-title="HUB" tvg-id="HUB SPORTS 1" tvg-logo="https://tv.qreatifku.my.id/images/hubs1.png",HUB SPORTS 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
+#EXTINF:-1 group-title="HUB" tvg-id="HUB SPORTS 2" tvg-logo="https://tv.qreatifku.my.id/images/hubs2.png",HUB SPORTS 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=giWRao7Fwn
+#EXTINF:-1 group-title="HUB" tvg-id="HUB SPORTS 3" tvg-logo="https://tv.qreatifku.my.id/images/hubs3.png",HUB SPORTS 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
 
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/1sss.png" group-title="SPORTS", STAR SPORTS SELECT 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/images/2sss.png" group-title="SPORTS", STAR SPORTS SELECT 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114584&extension=ts&play_token=F3F69ufJDw
+
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 1" tvg-logo="https://tv.qreatifku.my.id/images/hubp1.png",HUB PREMIER 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032529&extension=ts&play_token=g75CjvYlU7
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 2" tvg-logo="https://tv.qreatifku.my.id/images/hubp2.png",HUB PREMIER 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&extension=ts&play_token=9AHuedo13h
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 3" tvg-logo="https://tv.qreatifku.my.id/images/hubp3.png",HUB PREMIER 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032527&extension=ts&play_token=Et5fP65J8n
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 4" tvg-logo="https://tv.qreatifku.my.id/images/hubp4.png",HUB PREMIER 4
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032526&extension=ts&play_token=enHys0aCdI
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 5" tvg-logo="https://tv.qreatifku.my.id/images/hubp5.png",HUB PREMIER 5
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032525&extension=ts&play_token=enHys0aCdI
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 6" tvg-logo="https://tv.qreatifku.my.id/images/hubp6.png",HUB PREMIER 6
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032524&extension=ts&play_token=enHys0aCdI
+#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 7" tvg-logo="https://tv.qreatifku.my.id/images/hubp7.png",HUB PREMIER 7
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&extension=ts&play_token=enHys0aCdI
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#",Champions TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#http://www.ieg.id/tv-channel/champions-tv-2/
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#",Champions TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#http://www.ieg.id/tv-channel/champions-tv-3/
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/Pd0SfzMEE5rUxTrpO-hjUdKdY-c=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#",Champions TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
