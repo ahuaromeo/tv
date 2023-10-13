@@ -200,9 +200,4 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&
 
 
 
-#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 1" tvg-logo="https://tv.qreatifku.my.id/images/hubp1.png",HUB PREMIER A
-https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
-#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 2" tvg-logo="https://tv.qreatifku.my.id/images/hubp2.png",HUB PREMIER B
-https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
-#EXTINF:-1 group-title="HUB" tvg-id="HUB PREMIER 3" tvg-logo="https://tv.qreatifku.my.id/images/hubp3.png",HUB PREMIER C
-https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
+
