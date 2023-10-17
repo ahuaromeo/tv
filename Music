@@ -1,30 +1,45 @@
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Movie",Cinemax CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Movie",HBO CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movie",HBO Family CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="Movie",HBO Signature CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movie",HBO HITS CubMu
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTM3U
+#EXTINF:-1, USEETV |ID: ANTV
+https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
+#EXTINF:-1, USEETV |ID: TRANSTV
+https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
+#EXTINF:-1, USEETV |ID: TRANS7
+https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
+#EXTINF:-1, USEETV |ID: SCTV
+https://cdnbal1.indihometv.com/dvr/139/sctv/manifest.mpd
+#EXTINF:-1, USEETV |ID: TVONE
+https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd
+#EXTINF:-1, USEETV |ID: METRO TV
+https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
+#EXTINF:-1, USEETV |ID: KOMPAS TV
+https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
+#EXTINF:-1, USEETV |ID: TVRI
+https://cdn09jtedge.indihometv.com/dvr/139/tvri/manifest.mpd
+#EXTINF:-1, USEETV |ID: INEWS
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
+#EXTINF:-1, USEETV |ID: BTV
+https://cdn09jtedge.indihometv.com/dvr/139/beritasatu/manifest.mpd
+#EXTINF:-1, USEETV |ID: RRINET
+https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
+#EXTINF:-1, USEETV |ID: BALI TV
+https://cdn09jtedge.indihometv.com/dvr/139/balitv/manifest.mpd
+#EXTINF:-1, USEETV |ID: RTV
+https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
+#EXTINF:-1, USEETV |ID: USEE PRIME
+https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/chunklist_w1395148783_b894100_sleng.m3u8
+#EXTINF:-1, USEETV |ID: SEA TODAY
+https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
+#EXTINF:-1, USEETV |ID: DAAI TV
+https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
+#EXTINF:-1, USEETV |ID: JAK TV
+https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
+#EXTINF:-1, USEETV |ID: NUSANTARA TV
+https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
+#EXTINF:-1, USEETV |ID: PERAMBOS
+https://cdngb196.indihometv.com/dass/130/pramborstv_dash/segment_ctvideo_cfm4s_ridp0va0br1000000_cs101262697200_w_useetv_mpd.m4
+#EXTINF:-1, USEETV |ID: ARIRANG
+https://cdn09jtedge.indihometv.com/dvr/139/arirang/manifest.mpd
+#EXTINF:-1, USEETV |ID: ABC AUSTRALIA
+https://cdn09jtedge.indihometv.com/dvr/139/abcaustralia/manifest.mpd
+#EXTINF:-1, USEETV |ID: INDOSIAR
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
