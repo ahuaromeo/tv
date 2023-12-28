@@ -58,15 +58,6 @@ https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-id="AsianFoodNetwork.Id" tvg-logo="https://cdn.ksa.my.id/afn.png" group-title="Lifestyle",AFN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SG: Asian Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d55b3f226ab7d36bd78dee89ed6a47a.png" group-title="Favorite",Dens Food Channel
-http://rr3.dens.tv/s/s50/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="Favorite",ID: TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
@@ -169,3 +160,21 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1024px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="" tvg-logo="",AFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd 
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-logo="https://i.ibb.co/ww5BQHP/Afn-hometv.jpg",AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/index.m3u8
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3002
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#https://newanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
