@@ -3539,10 +3539,4 @@ http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:34:cf&stream=1431519&ex
 #EXTINF:-1, group-title="Other Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1024px-ESPN_Plus.svg.png",ESPN PLUS
 http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:34:cf&stream=1431520&extension=m3u8&play_token=1teUinzRZ3
 
-#EXTINF:-1  tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_bioskopindonesia.png" group-title="TES",BIOSKOP INDONESIA MB
-https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=bioskopindonesia
 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=1lIl1Ila1IlI1&a=paramount
-##EXTINF:-1 tvg-logo=https://www.useetv.com/pimages/logo_paramount_big.png group-title=Tes, Paramount Mibi
-https://mibitivi.xyz/sc/play.mpd?tekon=1lIl1Ila1IlI1&channel=paramount
