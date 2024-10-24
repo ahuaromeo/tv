@@ -1,19 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" channelId="-1" group-title="LOKAL", RRI Net
+#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="Lokal", Bola 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.156.141.151:4567/stream/channelid/299405487?profile=pass
-#EXTINF:0 tvg-id="" channelId="-1" group-title="LOKAL", TVRI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9182&type=drm
+http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
+
+#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="Lokal",Bola 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.156.141.151:4567/stream/channelid/1955896278?profile=pass
-#EXTINF:0 tvg-id="" channelId="-1" group-title="LOKAL", RCTI DVB-S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.156.141.151:4567/stream/channelid/1444580021?profile=pass
-#EXTINF:0 tvg-id="" channelId="-1" group-title="LOKAL", RCTI HD B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
-#EXTINF:0 tvg-id="" channelId="-1" group-title="LOKAL", RCTI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.156.141.151:4567/stream/channelid/600484674?profile=pass
-#EXTINF:0 tvg-id="" channelId="-1" group-title="LOKAL", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.156.141.151:4567/stream/channelid/1680651630?profile=pass
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm
+http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
